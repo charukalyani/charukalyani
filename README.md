@@ -1,5 +1,21 @@
 # 💫 About Me:
-😎I am Software Engineer with a passion for Science and Human Behavior.<br>🖥Shoot me an Email or add me on Linkedin :)
+
+👋 Hello, I'm Charu!
+
+💻 What I Do:
+I specialize in front-end development using Angular, TypeScript, HTML, and CSS. I enjoy creating responsive and interactive web experiences that delight users. I have a strong understanding of modern web development principles and best practices, and I constantly strive to stay up to date with the latest industry trends.
+
+🌟 My Skills:
+- Angular: I have a deep understanding of the Angular framework and its ecosystem. I'm proficient in Angular CLI, Angular Material, and RxJS.
+- TypeScript: I leverage the power of TypeScript to build robust and scalable applications.
+- HTML/CSS: I have expertise in crafting semantic HTML markup and CSS styling for clean and visually appealing interfaces.
+- Git: I'm experienced in version control using Git, collaborating with teams, and managing code repositories.
+
+🌱 What's Next:
+I'm always eager to learn and grow as a developer. Currently, I'm exploring Nodejs to expand my skill set and tackle new challenges. I'm also open to collaborating on exciting projects and contributing to the open-source community.
+
+📫 How to Reach Me:
+🌠 Shoot me an Email or add me on Linkedin :)
 
 
 ## 🌐 Socials:
